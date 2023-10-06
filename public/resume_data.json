@@ -2,7 +2,20 @@
    "main":{
       "name" : "Lifetime Project",
       "description" : "Game Developer Wannabe",
-      "github" : "https://github.com/AhmadRiau?tab=repositories",
-      "project" : "https://github.com/AhmadRiau?tab=repositories"
+      "image" :"/profilepic.jpg",
+      "github" : "https://github.com/AhmadRiau",
+      "project" : "https://github.com/AhmadRiau",
+      "bio": "This should be our biography",
+        "contactmessage":"Hello, here we are",
+        "email": "lifetime_project@email.com",
+        "phone": "877-1234-5678",
+        "address":{
+            "street":"Jl Margonda Raya",
+            "city":"Depok",
+            "state":"West Java",
+            "zip": "16024"
+        },
+        "website": "https://github.com/AhmadRiau",
+        "resumedownload":"https://github.com/AhmadRiau"
    }
 }
