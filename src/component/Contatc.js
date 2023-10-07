@@ -50,8 +50,8 @@ class Contact extends Component{
                               <label htmlFor="contactMessage"> 
                                  Message <span className="required">*</span>
                               </label>
-                              <textarea cols="30" rows="3" id="contactMessage" name="contactMessage" onChange={this.handleChange}>
-                                 Write your message here.
+                              <textarea cols="30" rows="3" id="contactMessage" name="contactMessage" onChange={this.handleChange} defaultValue={"Write your message here."}>
+                                 
                               </textarea>
                            </div>
                            <div>
